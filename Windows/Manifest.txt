@@ -6,7 +6,7 @@ libEGL.dll,0,92672
 libGLESv2.dll,0,4601856
 natives_blob.bin,0,179516
 node.dll,0,6855168
-nw.dll,https://1drv.ws/u/s!AkkqGntQc7Y5nK0MNDYXy4KeIhsb5A?e=IVAu60,105700864
+nw.dll,https://onedrive.live.com/download?cid=39B673507B1A2A49&resid=39B673507B1A2A49%21464524&authkey=AAyY2Szg6hxysD8,105700864
 nw.exe,0,1852416
 nw_100_percent.pak,0,823074
 nw_200_percent.pak,0,1073321
